@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<!-- Here we use a en lang, but we can use 'en' lang and dont gonna get any issue with the page content  -->
+<html lang="en">
+
+<head>
+    <!-- Here we gonna put any type of metadata that we will use -->
+</head>
+
+<body>
+    <!-- Here we gonna put all the info what we need the page show -->
+</body>
+
+</html> <!-- Remember always close your tags-->
